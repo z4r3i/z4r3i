@@ -1,1 +1,1 @@
-CSS3 HTML5 JavaScript PHP WordPress Tailwind CSS Swiper Axios Npm Yarn Visual Studio Code Postman Adobe Illustrator Adobe Photoshop Git GitHub Desktop GitKraken Figma React NextJs Create React App Vite
+[CSS3](https://camo.githubusercontent.com/0591a425f2b4546162c508ff19392e33db181286013fd6cbbc0e50719ebc1b17/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f435353332d3135373242363f6c6f676f3d43535333266c6f676f436f6c6f723d7768697465267374796c653d666f722d7468652d6261646765)
