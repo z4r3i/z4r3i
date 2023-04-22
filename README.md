@@ -1,3 +1,8 @@
+## Hi, I'm Amir mahdi zarei! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50">
+
+junior Full-Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+
+
 
 Developing my self🙂
 
@@ -10,6 +15,9 @@ Developing my self🙂
 ![Python](https://img.shields.io/badge/python-0677b8?logo=python&logoColor=white&style=for-the-badge)
 ![Mysql](https://img.shields.io/badge/mysql-d88700?logo=WordPress&logoColor=white&style=for-the-badge)
 ![WordPress](https://img.shields.io/badge/WordPress-21759B?logo=WordPress&logoColor=white&style=for-the-badge)
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=z4r3i&theme=dark&hide_border=true)](https://git.io/streak-stats)
+
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=z4r3i&show_icons=true&theme=transparent)
 
