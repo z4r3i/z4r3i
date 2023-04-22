@@ -14,6 +14,7 @@
 ![Mysql](https://img.shields.io/badge/mysql-d88700?logo=WordPress&logoColor=white&style=for-the-badge)
 ![WordPress](https://img.shields.io/badge/WordPress-21759B?logo=WordPress&logoColor=white&style=for-the-badge)
 
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=z4r3i&show_icons=true&theme=transparent) 
 ![gif](https://user-images.githubusercontent.com/59662513/233776430-d1228aa0-72bf-4d6f-a1f3-d395ef426330.gif)
 
