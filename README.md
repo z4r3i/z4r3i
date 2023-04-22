@@ -2,8 +2,6 @@
 
 junior Full-Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 
-
-
 Developing my self🙂
 
  ## My Skills
@@ -16,12 +14,7 @@ Developing my self🙂
 ![Mysql](https://img.shields.io/badge/mysql-d88700?logo=WordPress&logoColor=white&style=for-the-badge)
 ![WordPress](https://img.shields.io/badge/WordPress-21759B?logo=WordPress&logoColor=white&style=for-the-badge)
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=z4r3i&theme=dark&hide_border=true)](https://git.io/streak-stats)
-
-
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=z4r3i&show_icons=true&theme=transparent)
-
-
 
 ## My social networks
 <a href="https://instagram.com/pars_programmer"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"/></a>
