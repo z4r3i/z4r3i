@@ -1,3 +1,12 @@
+###
+
+<div>
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&theme=cobalt"  />
+</div>
+
+###
+
+
 # Hi, I'm Amir mahdi zarei! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50">
 
  junior Full-Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
@@ -94,13 +103,7 @@
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/z4r3i/z4r3i/output/pacman-contribution-graph.svg">
 </picture>
 
-###
 
-<div>
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&reversal=true&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&theme=cobalt"  />
-</div>
-
-###
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=z4r3i&show_icons=true&theme=transparent) 
 ![gif](https://user-images.githubusercontent.com/59662513/233776430-d1228aa0-72bf-4d6f-a1f3-d395ef426330.gif)
@@ -110,4 +113,10 @@
 <a href="https://instagram.com/pars_programmer"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"/></a>
 <a href="https://4mir.ir/telegram"><img alt="Instagram" src="https://img.shields.io/badge/telegram-2b8de2.svg?style=for-the-badge&logo=telegram&logoColor=white"/></a>
 <a href="https://wa.me/989991502929"><img alt="Instagram" src="https://img.shields.io/badge/whatsapp-40dd5c.svg?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
+###
 
+<div>
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&reversal=true&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&theme=cobalt"  />
+</div>
+
+###
