@@ -87,16 +87,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/yarn/yarn-original.svg" height="40" alt="yarn logo"  />
 </div>
 
-###
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/z4r3i/z4r3i/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/z4r3i/z4r3i/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/z4r3i/z4r3i/output/pacman-contribution-graph.svg">
-</picture>
-
-
-
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=z4r3i&show_icons=true&theme=transparent) 
 ![gif](https://user-images.githubusercontent.com/59662513/233776430-d1228aa0-72bf-4d6f-a1f3-d395ef426330.gif)
 
